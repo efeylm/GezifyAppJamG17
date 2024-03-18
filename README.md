@@ -12,3 +12,7 @@ A few resources to get you started if this is your first Flutter project:
 - Kullanıcılar rotaları Google Maps'te görüntüleyebilir
 - Kullanıcılar yeni rotalar ekleyebilir.
 
+## Geliştiriciler
+- Efe Yalım
+- Beraat Öztorun
+- Fatıma Elmusa
