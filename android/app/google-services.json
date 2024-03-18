@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076962062131",
+    "project_id": "appjam-8b0c8",
+    "storage_bucket": "appjam-8b0c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076962062131:android:fd6f8beb464b60b7ead846",
+        "android_client_info": {
+          "package_name": "com.example.appjam_release1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYybvh0RI-o1H-rw52K7Zu2tM_zp4NXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
