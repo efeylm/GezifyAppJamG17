@@ -1,5 +1,6 @@
 # Gezify
 Google Oyun ve Uygulama Akademisi'nin ilk 3.yılındaki ilk App Jam'i için Flutter ve Firebase kullanılarak geliştirilmiş bir gezi ve rota paylaşım uygulamasıdır.
+https://www.youtube.com/shorts/wtK_J13N83s
 ## Özellikler
 
 - Kullanıcılar hesap oluşturabilir ve oturum açabilir.
