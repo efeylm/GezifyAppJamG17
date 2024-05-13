@@ -10,6 +10,6 @@ https://www.youtube.com/shorts/wtK_J13N83s
 - Kullanıcılar yeni rotalar ekleyebilir.
 
 ## Geliştiriciler
-- Efe Yalım
-- Beraat Öztorun
-- Fatıma Elmusa
+- Efe Yalım (Development)
+- Beraat Öztorun (Design)
+- Fatıma Elmusa (Development)
